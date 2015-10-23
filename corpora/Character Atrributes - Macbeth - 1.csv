@@ -1,0 +1,43 @@
+Name,Gender,Social Status,Alliance,Drive
+ANGUS,Male,Noble,Kingdom ,Justice
+BANQUO,Male,Noble,Macbeth,Justice
+CAPTAIN,Male,Commoner,Kingdom ,Justice
+CATHNESS,Male,Noble,Kingdom ,Justice
+DONALBAIN,Male,Noble,Kingdom ,Justice
+DOCTOR          ,Male,Commoner,Neutral,Neutral
+DUNCAN,Male,Noble,Kingdom ,Justice
+ENGLISH DOCTOR,Male,Commoner,Neutral,Neutral
+FIRST APPARITION,Male,Supernatural,Macbeth,Supernatural
+FIRST MURDERER,Male,Commoner,Macbeth,Neutral
+FIRST WITCH,Female,Supernatural,Neutral,Supernatural
+FLEANCE,Male,Noble,Kingdom ,Justice
+GENTLEWOMAN,Female,Commoner,Macbeth,Neutral
+HECAT,Female,Supernatural,Neutral,Supernatural
+LADY MACBETH,Female,Noble,Macbeth,Ambition
+LENNOX,Male,Noble,Kingdom ,Justice
+LORD,Male,Noble,Kingdom ,Justice
+LORDS,Male,Noble,Kingdom ,Justice
+MACBETH,Male,Noble,Macbeth,Ambition
+MACDUFF,Male,Noble,Kingdom ,Justice
+MALCOLM,Male,Noble,Kingdom ,Justice
+MENTETH,Male,Noble,Kingdom ,Justice
+MESSENGER,Male,Commoner,Macbeth,Neutral
+MESSENGER TO WIFE,Male,Commoner,Kingdom ,Neutral
+MURDERERS,Male,Commoner,Macbeth,Neutral
+OLD MAN,Male,Commoner,Neutral,Neutral
+PORTER,Male,Commoner,Neutral,Neutral
+ROSS,Male,Noble,Kingdom ,Justice
+SECOND APPARITION    ,Male,Supernatural,Macbeth,Supernatural
+SECOND MURDERER,Male,Commoner,Macbeth,Neutral
+SECOND WITCH,Female,Supernatural,Neutral,Supernatural
+SERVANT,Male,Commoner,Macbeth,Neutral
+SEYTON,Male,Commoner,Macbeth,Neutral
+SEYWARD,Male,Noble,Kingdom ,Justice
+SOLDIERS,Male,Commoner,Kingdom ,Justice
+SON               ,Male,Noble,Kingdom ,Justice
+THIRD APPARITION,Male,Supernatural,Macbeth,Supernatural
+THIRD MURDERER,Male,Commoner,Macbeth,Neutral
+THIRD WITCH,Female,Supernatural,Neutral,Neutral
+WIFE         ,Female,Noble,Kingdom ,Justice
+WITCHES,Female,Supernatural,Neutral,Supernatural
+YOUNG SEYWARD,Male,Noble,Kingdom ,Justice

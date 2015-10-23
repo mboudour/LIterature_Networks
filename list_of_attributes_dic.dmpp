@@ -1,0 +1,142 @@
+(dp0
+S'Gender'
+p1
+c__builtin__
+set
+p2
+((lp3
+S'Male'
+p4
+aS'Female'
+p5
+atp6
+Rp7
+sS'Alliance'
+p8
+g2
+((lp9
+S'Kingdom'
+p10
+aS'Neutral'
+p11
+aS'Macbeth'
+p12
+atp13
+Rp14
+sS'Social Status'
+p15
+g2
+((lp16
+S'Noble'
+p17
+aS'Supernatural'
+p18
+aS'Commoner'
+p19
+atp20
+Rp21
+sS'Name'
+p22
+g2
+((lp23
+S'DONALBAIN'
+p24
+aS'SERVANT'
+p25
+aS'OLD MAN'
+p26
+aS'THIRD WITCH'
+p27
+aS'YOUNG SEYWARD'
+p28
+aS'MESSENGER'
+p29
+aS'WITCHES'
+p30
+aS'SOLDIERS'
+p31
+aS'SON'
+p32
+aS'SECOND APPARITION'
+p33
+aS'LORDS'
+p34
+aS'LENNOX'
+p35
+aS'MACDUFF'
+p36
+aS'HECAT'
+p37
+aS'DOCTOR'
+p38
+aS'MALCOLM'
+p39
+aS'LADY MACBETH'
+p40
+aS'SECOND MURDERER'
+p41
+aS'THIRD MURDERER'
+p42
+aS'BANQUO'
+p43
+aS'FIRST WITCH'
+p44
+aS'LORD'
+p45
+aS'ROSS'
+p46
+aS'FIRST APPARITION'
+p47
+aS'PORTER'
+p48
+aS'SEYWARD'
+p49
+aS'ANGUS'
+p50
+aS'MENTETH'
+p51
+aS'FIRST MURDERER'
+p52
+aS'GENTLEWOMAN'
+p53
+aS'CATHNESS'
+p54
+aS'FLEANCE'
+p55
+aS'DUNCAN'
+p56
+aS'SEYTON'
+p57
+aS'WIFE'
+p58
+aS'MACBETH'
+p59
+aS'MESSENGER TO WIFE'
+p60
+aS'SECOND WITCH'
+p61
+aS'THIRD APPARITION'
+p62
+aS'CAPTAIN'
+p63
+aS'MURDERERS'
+p64
+aS'ENGLISH DOCTOR'
+p65
+atp66
+Rp67
+sS'Drive'
+p68
+g2
+((lp69
+S'Justice'
+p70
+aS'Neutral'
+p71
+aS'Supernatural'
+p72
+aS'Ambition'
+p73
+atp74
+Rp75
+s.
